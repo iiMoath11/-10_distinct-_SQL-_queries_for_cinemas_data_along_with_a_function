@@ -1,0 +1,541 @@
+"Unnamed: 0",name,rating,review_count,genre,location,best_comment
+0,"   Roman Theater",4,15100," Performing arts theater","Al Uqayr Saudi Arabia",
+1,Maraya,5,"11T "," Concert hall","Al Atheeb Saudi Arabia","Also the theater is another level of perfection"
+2,"Novo Cinemas, Seef Mall",4,80100," Movie theater","Muharraq, Bahrain  In Seef Mall  Arad, Muharraq","The theater was comfortable and the screening was of high quality"
+3,"Education Department Theater",0,16900," Performing arts theater",,"Screen size is good enough"
+4,"Muvi Cinemas  Jubail Mall",4,87100," Movie theater","Al Jubail Saudi Arabia  In Cenomi Al Jubail Mall",
+5,"vox cinemas",4,"35T "," Movie theater","Riyadh Saudi Arabia  In Qasr Mall by Dar Al Arkan","Sound system and atmosphere very good"
+6,"AMC Cinemas Azizia 3",4,60400," Movie theater","Riyadh Saudi Arabia",
+7,"Muvi Cinemas   ",4,38900," Movie theater","Dhahran Saudi Arabia  In the Mall of Dhahran",
+8,"VOX Cinemas  Kingdom Centre",4,"14T "," Movie theater","Riyadh Saudi Arabia  In Kingdom Centre","Comfy chairs, and nice place for couples"
+9,"AMC Cinemas Al Khair 9",4,"16T "," Movie theater","Riyadh Saudi Arabia  In Almakan Mall",
+10,"Empire Cinemas Khobar",4,"13T "," Movie theater","Al Khobar Saudi Arabia  In Al Rashid Mall","Lovely place and staff, prices are reasonable, screens chairs are wonderful "
+11,"Dhahran Movie Theatre",4,21000," Movie theater","Dhahran Saudi Arabia","Its a small cinema and staff is not a happy bunch"
+12,"Saudi Aramco Abqaiq Community theater",4,1300," Movie theater","Buqayq Saudi Arabia",
+13,"Vox Cinema  Riyadh Front",4,"58T "," Movie theater","Riyadh Saudi Arabia  In Riyadh Front  Shopping Area",
+14,"AMC Cinemas Riyadh Gallery 9",4,"15T "," Movie theater","Riyadh Saudi Arabia  In Riyadh Gallery Mall","Fancy chairs ,nice screens and snacks"
+15,"vox cinema",4,72400," Movie theater","Riyadh Saudi Arabia  In The Esplanade Mall",
+16,"Kmax Cinema",4,13000," Movie theater","King Abdullah Economic City Saudi Arabia",
+17,"AMC  Hafr Al Batin 8",4,2300," Movie theater","SH Saudi Arabia",
+18,"Muvi Boutique Cinema",4,37600," Movie theater","Riyadh Saudi Arabia  In Cenomi Tala Mall",
+19,"Empire Cinemas  Head Office",0,3600," Movie theater","Riyadh Saudi Arabia",
+20,"AMC Cinemas KAFD",4,"53T "," Movie theater","Riyadh Saudi Arabia  In Chalmont","Spacious and nice theater"
+21,"Cinpolis Cinemas  Lulu Mall",0,"13T "," Movie theater","Dammam Saudi Arabia  In LuLu Mall  Dammam","Upscale digital movie theater"
+22,"AMC Stars Avenue 9",4,"25T "," Movie theater",,
+23,"Vox Cinema  Riyadh Front",4,"58T "," Movie theater","Riyadh Saudi Arabia  In Riyadh Front  Shopping Area",
+24,"AMC Cinemas Riyadh Gallery 9",4,"15T "," Movie theater","Riyadh Saudi Arabia  In Riyadh Gallery Mall","Fancy chairs ,nice screens and snacks"
+25,"vox cinema",4,72400," Movie theater","Riyadh Saudi Arabia  In The Esplanade Mall",
+26,"Kmax Cinema",4,13000," Movie theater","King Abdullah Economic City Saudi Arabia",
+27,"AMC  Hafr Al Batin 8",4,2300," Movie theater","SH Saudi Arabia",
+28,"Muvi Boutique Cinema",4,37600," Movie theater","Riyadh Saudi Arabia  In Cenomi Tala Mall",
+29,"Empire Cinemas  Head Office",0,3600," Movie theater","Riyadh Saudi Arabia",
+30,"Cinpolis Cinemas  Al Jamea Plaza",4,"18T "," Movie theater","Jeddah Saudi Arabia  In Al Jamea Plaza",
+31,"Muvi Cinemas   ",4,"19T "," Movie theater","Riyadh Saudi Arabia  In The View Mall","But small theater"
+32,"Muvi Cinemas   ",4,"28T "," Movie theater","Riyadh Saudi Arabia  In U Walk",
+33,"   ",4,"36T "," Movie theater","Riyadh Saudi Arabia  In The Roof",
+34,"AMC Cinemas Karam 5",4,35900," Movie theater","Al Majmaah Saudi Arabia  In Karam Mall",
+35,"VOX Cinemas",4,"28T "," Movie theater","Jeddah Saudi Arabia  In Town Square","Wide and clean space"
+36,"Vox Cinema  Riyadh Park Mall",4,"74T "," Movie theater","Riyadh Saudi Arabia  In Riyadh Park",
+37,"Ithra Theatre",5,48900," Childrens theater","Dhahran Saudi Arabia",
+38,"Empire Cinemas Jeddah",4,"13T "," Movie theater","Jeddah Saudi Arabia  In AlAndalus Mall",
+39,"VOX Cinemas",4,"19T "," Movie theater","Riyadh Saudi Arabia  In the Sahara Mall","Small theater with good service"
+40,"Empire Cinemas Khobar",4,"13T "," Movie theater","Al Khobar Saudi Arabia  In Al Rashid Mall","Lovely place and staff, prices are reasonable, screens chairs are wonderful "
+41,"Dhahran Movie Theatre",4,21000," Movie theater",,"But small theater"
+42,"Muvi Cinemas   ",4,"28T "," Movie theater","Riyadh Saudi Arabia  In U Walk",
+43,"   ",4,"36T "," Movie theater","Riyadh Saudi Arabia  In The Roof",
+44,"AMC Cinemas Karam 5",4,35900," Movie theater","Al Majmaah Saudi Arabia  In Karam Mall",
+45,"VOX Cinemas",4,"28T "," Movie theater","Jeddah Saudi Arabia  In Town Square","Wide and clean space"
+46,"Vox Cinema  Riyadh Park Mall",4,"74T "," Movie theater","Riyadh Saudi Arabia  In Riyadh Park",
+47,"Ithra Theatre",5,48900," Childrens theater","Dhahran Saudi Arabia",
+48,"Empire Cinemas Jeddah",4,"13T "," Movie theater","Jeddah Saudi Arabia  In AlAndalus Mall",
+49,"VOX Cinemas",4,"19T "," Movie theater","Riyadh Saudi Arabia  In the Sahara Mall","Small theater with good service"
+50,"Najmah Theater",0,8100," Movie theater","Ras Tanura Saudi Arabia",
+51,"AMC Cinemas Tabuk Boulevard",4,5500," Movie theater","Tabuk Saudi Arabia",
+52,"AMC Cinemas Panorama 10",4,"19T "," Movie theater","Riyadh Saudi Arabia  In Panorama Mall",
+53,"Muvi Cinemas   ",4,"19T "," Movie theater","Al Hofuf Saudi Arabia  In Al Ahsa Mall by Arabian Centres","Very good place, great experience"
+54,"Muvi Cinemas   ",4,"27T "," Movie theater","Dammam Saudi Arabia  In Cenomi Al Nakheel Dammam Mall",
+55,"AMC cinemas",4,26800," Movie theater","Hafar Al Batin Saudi Arabia",
+57,"Muvi Cinemas   ",4,44900," Movie theater","Riyadh Saudi Arabia",
+58,"AMC Dawadmi 3",4,8200," Movie theater","Al Duwadimi Saudi Arabia  In  ",
+59,"   ",4,72400," Movie theater","Riyadh Saudi Arabia  In   RAKAA PLAZA",
+60,"Cinpolis Cinemas  Al Jamea Plaza",4,"18T "," Movie theater","Jeddah Saudi Arabia  In Al Jamea Plaza",
+61,"Muvi Cinemas   ",4,"19T "," Movie theater","Riyadh Saudi Arabia  In The View Mall","But small theater"
+62,"Muvi Cinemas   ",4,"28T "," Movie theater","Riyadh Saudi Arabia  In U Walk",
+63,"Muvi Cinemas   ",4,"19T "," Movie theater","Al Hofuf Saudi Arabia  In Al Ahsa Mall by Arabian Centres","Very good place, great experience"
+64,"Muvi Cinemas   ",4,"27T "," Movie theater","Dammam Saudi Arabia  In Cenomi Al Nakheel Dammam Mall",
+65,"AMC cinemas",4,26800," Movie theater","Hafar Al Batin Saudi Arabia",
+67,"Muvi Cinemas   ",4,44900," Movie theater","Riyadh Saudi Arabia",
+68,"AMC Dawadmi 3",4,8200," Movie theater","Al Duwadimi Saudi Arabia  In  ",
+69,"   ",4,72400," Movie theater","Riyadh Saudi Arabia  In   RAKAA PLAZA",
+70,"Muvi Cinemas   ",0,"13T "," Movie theater","Taif Saudi Arabia  In Taif City Walk",
+71,"Muvi Cinemas",4,10800," Movie theater","Jeddah Saudi Arabia  In Al Salaam Mall",
+72,"Cinpolis Cinemas  ",0,8600," Movie theater","Jazan Saudi Arabia",
+73,"Empire Cinemas Jazan",4,97500," Movie theater","Jazan Saudi Arabia",
+74,"VOX cinema",4,"1T "," Movie theater","Riyadh Saudi Arabia  In Atyaf Mall",
+75,"Vox Cinemas",4,"48T "," Movie theater","Dammam Saudi Arabia  In West Avenue Mall",
+76,"    ",4,"14T "," Movie theater","Buraydah Saudi Arabia  In Al Nakheel Plaza",
+77,"Muvi Cinemas   ",4,84000," Movie theater","Jeddah Saudi Arabia  In Yasmin mall",
+78,"AMC Cinemas Ajdan Walk",4,95700," Movie theater","Al Khobar Saudi Arabia  In Ajdan Walk",
+79,"Empire Cinemas Hail",0,13700," Movie theater","Hail Saudi Arabia",
+80,"Najmah Theater",0,8100," Movie theater","Ras Tanura Saudi Arabia",
+81,"AMC Cinemas Tabuk Boulevard",4,5500," Movie theater","Tabuk Saudi Arabia",
+82,"AMC Cinemas Panorama 10",4,"19T "," Movie theater","Riyadh Saudi Arabia  In Panorama Mall",
+83,"Muvi Cinemas   ",4,97500," Movie theater","Jazan Saudi Arabia",
+84,"VOX cinema",4,"1T "," Movie theater","Riyadh Saudi Arabia  In Atyaf Mall",
+85,"Vox Cinemas",4,"48T "," Movie theater","Dammam Saudi Arabia  In West Avenue Mall",
+86,"    ",4,"14T "," Movie theater","Buraydah Saudi Arabia  In Al Nakheel Plaza",
+87,"Muvi Cinemas   ",4,84000," Movie theater","Jeddah Saudi Arabia  In Yasmin mall",
+88,"AMC Cinemas Ajdan Walk",4,95700," Movie theater","Al Khobar Saudi Arabia  In Ajdan Walk",
+89,"Empire Cinemas Hail",0,13700," Movie theater","Hail Saudi Arabia",
+90,GOLD,4,3800," Movie theater","Riyadh Saudi Arabia  In Vox Cinema  Riyadh Front",
+91,"VOX Cinema",4,52500," Movie theater","Hail Saudi Arabia",
+92,"   ",0,33600," Movie theater","Tabuk Saudi Arabia  In Tabuk Park",
+93,"AMC Garden 5  Hail",4,3300," Movie theater","Hail Saudi Arabia  In Garden Mall",
+94,"Empire Cinemas  ",0,9600," Movie theater","Arar Saudi Arabia  In  ",
+95,"Muvi Cinemas   ",4,69400," Movie theater","Riyadh Saudi Arabia  In Al Nakheel Mall","Nice place dolby experience"
+96,"Muvi Cinemas  Salaam Mall",4,13000," Movie theater","Riyadh Saudi Arabia  In Cenomi Salam Mall",
+97,"Safety Orientation UGP",4,3400," Movie theater","Uthmaniyah Saudi Arabia",
+98," ",4,94100," Movie theater","Jeddah Saudi Arabia  In the Mall of Arabia",
+99,"VOX Cinemas  Red Sea Mall",4,"12T "," Movie theater","Jeddah Saudi Arabia  In the Red Sea Mall","Small theatre, but looks good"
+100,"Muvi Cinemas   ",0,"13T "," Movie theater","Taif Saudi Arabia  In Taif City Walk",
+101,"Muvi Cinemas",4,10800," Movie theater","Jeddah Saudi Arabia  In Al Salaam Mall",
+102,"Cinpolis Cinemas  ",0,8600," Movie theater","Jazan Saudi Arabia",
+103,"AMC Garden 5  Hail",4,3300," Movie theater","Hail Saudi Arabia  In Garden Mall",
+104,"Empire Cinemas  ",0,9600," Movie theater","Arar Saudi Arabia  In  ","Excelent movie theater, recommended 100"
+105,"Muvi Cinemas   ",4,69400," Movie theater","Riyadh Saudi Arabia  In Al Nakheel Mall","Nice place dolby experience"
+106,"Muvi Cinemas  Salaam Mall",4,13000," Movie theater","Riyadh Saudi Arabia  In Cenomi Salam Mall","Big screen with large audience compared to old mall screen Riyadh"
+107,"Safety Orientation UGP",4,3400," Movie theater","Uthmaniyah Saudi Arabia",
+108," ",4,94100," Movie theater","Jeddah Saudi Arabia  In the Mall of Arabia","Nice small theater to watch movies"
+109,"VOX Cinemas  Red Sea Mall",4,"12T "," Movie theater","Jeddah Saudi Arabia  In the Red Sea Mall","Small theatre, but looks good"
+110,"VOX Cinemas Jubail Galleria Mall",3,8700," Movie theater","Al Jubail Saudi Arabia  In Galleria Mall","Just an average ordinary cinema"
+111,"Muvi Cinemas   ",4,57700," Movie theater","Khamis Mushait Saudi Arabia  In Mujan Park","New clean and organized theater"
+112,"Muvi Suites Cinemas    ",4,27400," Movie theater","Jeddah Saudi Arabia","Very fancy and cozy place"
+113,"King Abdulaziz Center for World Culture  Ithra",5,"52T "," Movie theater","Dhahran Saudi Arabia","Cultural center with a striking design"
+114,"  ",4,12500," Performing arts theater","Riyadh Saudi Arabia  In Boulevard studios",Dinein
+115,"Muvi Cinemas The Village",4,1700," Movie theater","Jeddah Saudi Arabia  In The village mall",
+116,"Al Hamra Cinema",4,"16T "," Movie theater","Manama, Bahrain","Budget theater cleaned and maintained well"
+117,"Heritage village theatre",4,9600," Performing arts theater","1c Saudi Arabia",
+118,"Rotana Theater",4,3000," Performing arts theater","Riyadh Saudi Arabia",
+119,"super dome theater",4,3800," Concert hall","Jeddah Saudi Arabia",
+120,GOLD,4,3800," Movie theater","Riyadh Saudi Arabia  In Vox Cinema  Riyadh Front",
+121,"VOX Cinema",4,52500," Movie theater","Hail Saudi Arabia","temperatures is very low so its very cold inside the theater"
+122,"   ",0,33600," Movie theater","Tabuk Saudi Arabia  In Tabuk Park","Very fancy and cozy place"
+123,"King Abdulaziz Center for World Culture  Ithra",5,"52T "," Movie theater","Dhahran Saudi Arabia","Cultural center with a striking design"
+124,"  ",4,12500," Performing arts theater","Riyadh Saudi Arabia  In Boulevard studios",Dinein
+125,"Muvi Cinemas The Village",4,1700," Movie theater","Jeddah Saudi Arabia  In The village mall",
+126,"Al Hamra Cinema",4,"16T "," Movie theater","Manama, Bahrain","Budget theater cleaned and maintained well"
+127,"Heritage village theatre",4,9600," Performing arts theater","1c Saudi Arabia",
+128,"Rotana Theater",4,3000," Performing arts theater","Riyadh Saudi Arabia",
+129,"super dome theater",4,3800," Concert hall","Jeddah Saudi Arabia",
+130," ",3,500," Movie theater","Hail Saudi Arabia",
+131,"Okaz Market Theater",4,83400," Performing arts theater","Taif Saudi Arabia  In Souq Okaz","Best theater we enjoyed and had fun"
+133,"Muvi Cinemas   ",5,"12T "," Movie theater","Unayzah Saudi Arabia  In The Boulevard Unayzah","Nice theatre  well maintained"
+134,"Al Comedy Club",4,1800," Performing arts theater","Dammam Saudi Arabia",
+136,"Theater Lasan",4,6100," Stage","Abha Saudi Arabia",
+137,"University Theater",4,11600," Stage","Abha Saudi Arabia  In King Khalid University",
+138,"End Of The World Cinema",4,3700," Movie theater","Qesm Sharm Ash Sheikh, Egypt","Edit after 3 years Movie still did not started"
+139,Scitech,4,"63T "," Science museum","Al Khobar Saudi Arabia","The movie theater is cool"
+140,"VOX Cinemas Jubail Galleria Mall",3,8700," Movie theater","Al Jubail Saudi Arabia  In Galleria Mall","Just an average ordinary cinema"
+141,"Muvi Cinemas   ",4,57700," Movie theater","Khamis Mushait Saudi Arabia  In Mujan Park","New clean and organized theater"
+142,"Muvi Suites Cinemas    ",4,27400," Movie theater","Jeddah Saudi Arabia","Very fancy and cozy place"
+143,"King Abdulaziz Center for World Culture  Ithra",5,"12T "," Movie theater","Unayzah Saudi Arabia  In The Boulevard Unayzah","Nice theatre  well maintained"
+144,"Al Comedy Club",4,1800," Performing arts theater","Dammam Saudi Arabia",
+146,"Theater Lasan",4,6100," Stage","Abha Saudi Arabia",
+147,"University Theater",4,11600," Stage","Abha Saudi Arabia  In King Khalid University",
+148,"End Of The World Cinema",4,3700," Movie theater","Qesm Sharm Ash Sheikh, Egypt","Edit after 3 years Movie still did not started"
+149,Scitech,4,"63T "," Science museum","Al Khobar Saudi Arabia","The movie theater is cool"
+150,"   Roman Theater",4,15100," Performing arts theater","Al Uqayr Saudi Arabia",
+151,Maraya,5,"11T "," Concert hall","Al Atheeb Saudi Arabia","Also the theater is another level of perfection"
+152,"Novo Cinemas, Seef Mall",4,80100," Movie theater","Muharraq, Bahrain  In Seef Mall  Arad, Muharraq","The theater was comfortable and the screening was of high quality"
+153,"Education Department Theater",0,16900," Performing arts theater","Al Madinah Al Munawwarah Saudi Arabia",
+154,"Benchmark Stage",4,21900," Live Music","Jeddah Saudi Arabia","Very nice theater setup"
+155,"Live Show Arabia",1,100," Entertainment agency","Riyadh Saudi Arabia","Closed  Opens 9am Wed"
+156,"Faris studio",5,1700," Museum","Riyadh Saudi Arabia",
+157,Terhal,1,6500," Concert hall","Diriyah Saudi Arabia","The food is not allowed inside the theater, so eat and drink your "
+158,"Riyadh Front  Shopping Area",5,"25T "," Shopping mall","Riyadh Saudi Arabia","Very nice mall with Cinema theater facility"
+159,TheClub,4,65400," Entertainer","Jeddah Saudi Arabia","Open now"
+160," ",3,500," Movie theater","Hail Saudi Arabia",
+161,"Okaz Market Theater",4,83400," Performing arts theater","Taif Saudi Arabia  In Souq Okaz","Best theater we enjoyed and had fun"
+162,,4,80100," Movie theater","Muharraq, Bahrain  In Seef Mall  Arad, Muharraq","The theater was comfortable and the screening was of high quality"
+163,"Education Department Theater",0,16900," Performing arts theater","Al Madinah Al Munawwarah Saudi Arabia",
+164,"Benchmark Stage",4,21900," Live Music","Jeddah Saudi Arabia","Very nice theater setup"
+165,"Live Show Arabia",1,100," Entertainment agency","Riyadh Saudi Arabia","Closed  Opens 9am Wed"
+166,"Faris studio",5,1700," Museum","Riyadh Saudi Arabia",
+167,Terhal,1,6500," Concert hall","Diriyah Saudi Arabia","The food is not allowed inside the theater, so eat and drink your "
+168,"Riyadh Front  Shopping Area",5,"25T "," Shopping mall","Riyadh Saudi Arabia","Very nice mall with Cinema theater facility"
+169,TheClub,4,65400," Entertainer","Jeddah Saudi Arabia","Open now"
+170,"Jeddah Superdome",4,"51T "," Event venue","Jeddah Saudi Arabia","Very big theater for all kind of shows"
+171,"Conference Center",5,73500," Conference center","Riyadh Saudi Arabia  In the Princess Nora bint Abdul Rahman University","Feels like you are sitting on stadium, not theater"
+172,"SUNRISE RESORT",5,9800," Resort hotel","Riyadh Saudi Arabia","I mostly enjoyed the cinema theater"
+173,"Crowne Plaza al Khobar, an IHG Hotel",4,"52T "," Hotel","Al Khobar Saudi Arabia","Upmarket hotel with fine dining"
+174,"Al Dana Amphitheatre",4,51200," Amphitheater","Zallaq, Bahrain","First visit to this Theater and found that everything is organized"
+175,"Staybridge Suites al Khobar, an IHG Hotel",5,"19T "," Hotel","Al Khobar Saudi Arabia","Contemporary allsuite hotel with a pool"
+177,"Emerald Hall",4,6700," Event venue","Dammam Saudi Arabia"," makes it perfect for hosting concerts, recitals, theater performances "
+178,"Muvi Cinemas  Drive In Riyadh",4,15500," Movie theater","Riyadh Saudi Arabia","Temporarily closed"
+179,"Talal Maddah Theater",4,"25T "," Stage","Abha Saudi Arabia","Temporarily closed"
+180,"   Roman Theater",4,15100," Performing arts theater","Al Uqayr Saudi Arabia",
+181,Maraya,5,"11T "," Concert hall","Al Atheeb Saudi Arabia","Also the theater is another level of perfection"
+182,,5,9800," Resort hotel","Riyadh Saudi Arabia","I mostly enjoyed the cinema theater"
+183,"Crowne Plaza al Khobar, an IHG Hotel",4,"52T "," Hotel","Al Khobar Saudi Arabia","Upmarket hotel with fine dining"
+184,"Al Dana Amphitheatre",4,51200," Amphitheater","Zallaq, Bahrain","First visit to this Theater and found that everything is organized"
+185,"Staybridge Suites al Khobar, an IHG Hotel",5,"19T "," Hotel","Al Khobar Saudi Arabia","Contemporary allsuite hotel with a pool"
+187,"Emerald Hall",4,6700," Event venue","Dammam Saudi Arabia"," makes it perfect for hosting concerts, recitals, theater performances "
+188,"Muvi Cinemas  Drive In Riyadh",4,15500," Movie theater","Riyadh Saudi Arabia","Temporarily closed"
+189,"Talal Maddah Theater",4,"25T "," Stage","Abha Saudi Arabia","Temporarily closed"
+190,"Tekka Tatbeelah",5,59300,"  ","Safwa Saudi Arabia",Dinein
+193,"   ",5,900," Outdoor movie theater","Hurghada 2, Egypt",
+194,"   ",4,8600," Kindergarten School","Riyadh Saudi Arabia","Closed  Opens 630am Wed"
+200,Alkuzama,5,200," Tourist attraction","Riyadh Saudi Arabia",
+201," ",5,87200," Tourist attraction","Riyadh Saudi Arabia  In Tamimi Markets  Olaya","A luxurious place with restaurants and markets"
+202,"Saad Red Sand  Dunes",5,600," Tourist attraction","Saad Saudi Arabia","Rubbish are everywhere near the rental place"
+203,"Durat Al Sahel Water Theme Park",4,"32T "," Theme park","Riyadh Saudi Arabia","Closed  Opens 1pm Thu"
+204,"The old palace",4,6900," Tourist attraction","Al Moqbel Palaces Saudi Arabia","Closed  Opens 630am Wed"
+205,"AlSamar Amusement Center",4,85500," Amusement center","Riyadh Saudi Arabia","Like the place, very entertaining just choose your favourite activity"
+206,"Mosary Arena",3,23000," Amusement center","Riyadh Saudi Arabia","Nice place my kids was very happy that day Will visit again very "
+207,Diriyah,4,2300," Tourist attraction","Diriyah Saudi Arabia","Beautiful historical place in a contemporary design for restaurants"
+208,"Snow City",4,"7T "," Amusement center","Riyadh Saudi Arabia  In    Othaim Mall","Nb 1 entertainment place"
+210,"King Fahads Fountain",5,"89T "," Tourist attraction","Jeddah Saudi Arabia","Closed  Opens 9am Wed"
+211,"Al Hokair Time",0,"29T "," Theme park","Riyadh Saudi Arabia","Nice place, variety of kids entertainment"
+212,"Saffori Land",4,"46T "," Amusement center","Riyadh Saudi Arabia  In    Othaim Mall","Entertainment place for kids"
+213,"Wild Baboons",4,2700," Tourist attraction","Riyadh Saudi Arabia"," this location im planning to visit this place thanks in advance"
+214,"Ushaiqer Heritage Village",5,"3T "," Tourist attraction","Ushaiqer Saudi Arabia","Great place to visit that shows you the old cities in Saudi Arabia"
+215,"Sky Zone   ",4,27600," Amusement center","Riyadh Saudi Arabia  In Al Maathar Plaza 2","Prefect place to go to chill have fun and get some exercise on"
+216,"  ",4,2800," Tourist attraction","Riyadh Saudi Arabia",
+217,,5,10100," Tourist attraction","Riyadh Saudi Arabia"," district is place where you can have calm and charming dinner"
+218,"Al Masmak Palace Museum",5,"32T "," Tourist attraction","Riyadh Saudi Arabia","Closes soon  9pm"
+219,"Blvd World",5,74600," Tourist attraction","Riyadh Saudi Arabia","Open now"
+220,Alkuzama,5,200," Tourist attraction","Riyadh Saudi Arabia",
+221," ",5,87200," Tourist attraction","Riyadh Saudi Arabia  In Tamimi Markets  Olaya","A luxurious place with restaurants and markets"
+222,"Saad Red Sand  Dunes",5,600," Tourist attraction","Saad Saudi Arabia","Rubbish are everywhere near the rental place"
+223,"Wild Baboons",4,2700," Tourist attraction","Riyadh Saudi Arabia"," this location im planning to visit this place thanks in advance"
+224,"Ushaiqer Heritage Village",5,"3T "," Tourist attraction","Ushaiqer Saudi Arabia","Great place to visit that shows you the old cities in Saudi Arabia"
+225,"Sky Zone   ",4,27600," Amusement center","Riyadh Saudi Arabia  In Al Maathar Plaza 2","Prefect place to go to chill have fun and get some exercise on"
+226,"  ",4,2800," Tourist attraction","Riyadh Saudi Arabia",
+227,,5,10100," Tourist attraction","Riyadh Saudi Arabia"," district is place where you can have calm and charming dinner"
+228,"Al Masmak Palace Museum",5,"32T "," Tourist attraction","Riyadh Saudi Arabia","Closes soon  9pm"
+229,"Blvd World",5,74600," Tourist attraction","Riyadh Saudi Arabia","Open now"
+230,"Sparkys  ",0,16800," Amusement center","Riyadh Saudi Arabia","Nice place for kids entertainment, fully isolated"
+231,"AlBujairi Heritage Park",4,"12T "," National park","Riyadh Saudi Arabia","Nice place for family entertainment enough parking space "
+232,"Red Sand Dunes",5,"12T "," Tourist attraction","Saudi Arabia","Nice entertainment place"
+233,"King Abdullah Park",4,"33T "," Tourist attraction","Riyadh Saudi Arabia","Good entertainment place"
+234,"Riyadh Zoo",4,"36T "," Tourist attraction","Riyadh Saudi Arabia","Closed  Opens 10am Wed"
+235,"Observatory Thanian",5,2300," Tourist attraction","AlMuzahmiya Saudi Arabia",
+236,Sparkys,0,96100," Amusement park","Riyadh Saudi Arabia  In Riyadh Gallery Mall","One of the favorite places for kids"
+237,"DAZ ",5,27800," Amusement center","Jeddah Saudi Arabia","My daughters favorite place "
+238,"Long Flag",4,79200," Tourist attraction","Diriyah Saudi Arabia  In King Salman Square in Diriyah","Good place and very quiet"
+239,"Magic Planet Riyadh Front     ",4,4400," Amusement center","Riyadh Saudi Arabia  In Riyadh Front  Shopping Area","I personally highly recommend him for a very sensitive areas in your "
+240,"King Fahads Fountain",5,"89T "," Tourist attraction","Jeddah Saudi Arabia","Closed  Opens 9am Wed"
+241,"Al Hokair Time",0,"29T "," Theme park","Riyadh Saudi Arabia","Nice place, variety of kids entertainment"
+242,"Saffori Land",4,"46T "," Amusement center","Riyadh Saudi Arabia  In    Othaim Mall",
+243,"King Abdullah Park",4,"33T "," Tourist attraction","Riyadh Saudi Arabia","Good entertainment place"
+244,"Riyadh Zoo",4,"36T "," Tourist attraction","Riyadh Saudi Arabia","Closed  Opens 10am Wed"
+245,"Observatory Thanian",5,2300," Tourist attraction","AlMuzahmiya Saudi Arabia",
+246,Sparkys,0,96100," Amusement park","Riyadh Saudi Arabia  In Riyadh Gallery Mall","One of the favorite places for kids"
+247,"DAZ ",5,27800," Amusement center","Jeddah Saudi Arabia","My daughters favorite place "
+248,"Long Flag",4,79200," Tourist attraction","Diriyah Saudi Arabia  In King Salman Square in Diriyah","Good place and very quiet"
+249,"Magic Planet Riyadh Front     ",4,4400," Amusement center","Riyadh Saudi Arabia  In Riyadh Front  Shopping Area","I personally highly recommend him for a very sensitive areas in your "
+250,"Real Edge of the World",5,8900," Tourist attraction"," Saudi Arabia","Just amazing Place can be reached by 4x4 The place may be close "
+251,"Little Red Sand",4,700," Tourist attraction","Riyadh Saudi Arabia",
+252,"Valley of Life",0,1700," Tourist attraction","Riyadh Saudi Arabia","Good place there "
+253,"Park near Museum",4,800," Park","Riyadh Saudi Arabia","Very nice and well maintained place Good for morning  evening "
+254,"Edge of the World",5,"33T "," Tourist attraction","Saudi Arabia","An interesting location with amazing views"
+255,"Last Hour Escape Room",5,"1T "," Escape room center","Riyadh Saudi Arabia","A great place if youre looking to have fun in Riyadh"
+256,"   Safforiland",4,29600," Amusement center","Riyadh Saudi Arabia  In Al Othaim Mall",
+257,"Escape the Room",5,"32T "," Escape room center","Al Khobar Saudi Arabia","The best entertainment place in Khobar"
+258,"Raghba observation tower",5,7400," Tourist attraction","Rughabah Saudi Arabia",
+259,"Al Haeer Park Khamsa Khamsa",4,45100," Tourist attraction","Riyadh Saudi Arabia","Super nice place away from city crowd"
+260,"Sparkys  ",0,16800," Amusement center","Riyadh Saudi Arabia","Nice place for kids entertainment, fully isolated"
+261,"AlBujairi Heritage Park",4,"12T "," National park","Riyadh Saudi Arabia","Nice place for family entertainment enough parking space "
+262,"Red Sand Dunes",5,1700," Tourist attraction","Riyadh Saudi Arabia","Good place there "
+263,"Park near Museum",4,800," Park","Riyadh Saudi Arabia","Very nice and well maintained place Good for morning  evening "
+264,"Edge of the World",5,"33T "," Tourist attraction","Saudi Arabia","An interesting location with amazing views"
+265,"Last Hour Escape Room",5,"1T "," Escape room center","Riyadh Saudi Arabia","A great place if youre looking to have fun in Riyadh"
+266,"   Safforiland",4,29600," Amusement center","Riyadh Saudi Arabia  In Al Othaim Mall",
+267,"Escape the Room",5,"32T "," Escape room center","Al Khobar Saudi Arabia","The best entertainment place in Khobar"
+268,"Raghba observation tower",5,7400," Tourist attraction","Rughabah Saudi Arabia",
+269,"Al Haeer Park Khamsa Khamsa",4,45100," Tourist attraction","Riyadh Saudi Arabia","Super nice place away from city crowd"
+270,"Xtreme Play  ",4,9300," Amusement center","Jeddah Saudi Arabia","Awesome place look out for Majed AlGhamdi, he is an awesome "
+271,"Al Muruj Park",4,"14T "," Tourist attraction","Riyadh Saudi Arabia",
+272,"Sparkys  ",4,"11T "," Amusement center","Dammam Saudi Arabia  In Dareen Mall","This place is the best in area they have too much games and kids "
+273,"The Escape Hotel",5,73500," Escape room center","Jeddah Saudi Arabia","Spooky yet fun place to try with different levels from easy to hard I "
+274,"The sky bridge of the kingdom center",5,9400," Tourist attraction","Riyadh Saudi Arabia  In Kingdom Centre","It locates on the 99th Floor"
+275,"Isteraha Al Faris",4,3800," Community garden","Riyadh Saudi Arabia","Open now"
+277,"Riyadh Season",5,"14T "," Tourist attraction","Riyadh Saudi Arabia","Ful on entertainment place in riyadh"
+278,"Heritage Village",5,26000," Tourist attraction","Shaqra Saudi Arabia",
+279,"Corniche Island",5,2200," Tourist attraction","Al Khobar Saudi Arabia",
+280,"Real Edge of the World",5,8900," Tourist attraction"," Saudi Arabia","Just amazing Place can be reached by 4x4 The place may be close "
+281,"Little Red Sand",4,700," Tourist attraction","Riyadh Saudi Arabia",
+282,"Valley of Life",0,1700," Tourist attraction","Riyadh Saudi Arabia",
+283,"The Escape Hotel",5,73500," Escape room center","Jeddah Saudi Arabia","Spooky yet fun place to try with different levels from easy to hard I "
+284,"The sky bridge of the kingdom center",5,9400," Tourist attraction","Riyadh Saudi Arabia  In Kingdom Centre","It locates on the 99th Floor"
+285,"Isteraha Al Faris",4,3800," Community garden","Riyadh Saudi Arabia","Open now"
+287,"Riyadh Season",5,"14T "," Tourist attraction","Riyadh Saudi Arabia","Ful on entertainment place in riyadh"
+288,"Heritage Village",5,26000," Tourist attraction","Shaqra Saudi Arabia",
+289,"Corniche Island",5,2200," Tourist attraction","Al Khobar Saudi Arabia",
+290,"Alsafat Square",4,"11T "," Tourist attraction","Riyadh Saudi Arabia","This is my Home place"
+291,"Saffori Land",0,"16T "," Amusement center","Riyadh Saudi Arabia  In    Abdullah Alothaim Markets","Awesome place for children entertainment"
+292,"Market DQ",3,400," Tourist attraction","Riyadh Saudi Arabia",
+293," ",4,300," Tourist attraction","Saudi Arabia",
+294,"ALNakheel Park",0,"23T "," Tourist attraction","Riyadh Saudi Arabia","Lawns, palm trees  sports facilities"
+295,"Magic Planet Riyadh Park     ",4,39800," Amusement center","Riyadh Saudi Arabia  In Riyadh Park","Very fun place for the kids Only problem is traffic "
+296,"Zero Latency   ",4,76100," Amusement center","Riyadh Saudi Arabia","Best place for Virtual Reality entertainment"
+297,"Fanta Park",4,4900," Amusement center","Riyadh Saudi Arabia  In Royal Mall Riyadh","It a nice place for entertainment for your children but your children "
+298,"Jabal Baloum",4,600," Tourist attraction","Riyadh Saudi Arabia","Great location for camping and to have fun around"
+299,"Escape Room",5,72100," Escape room center","Riyadh Saudi Arabia","I highly recommend this place for spending fun time with your family "
+300,"Xtreme Play  ",4,9300," Amusement center","Jeddah Saudi Arabia","Awesome place look out for Majed AlGhamdi, he is an awesome "
+301,"Al Muruj Park",4,"14T "," Tourist attraction","Riyadh Saudi Arabia",
+302,"Sparkys  ",4,"11T "," Amusement center","Dammam Saudi Arabia  In Dareen Mall","This place is the best in area they have too much games and kids "
+303,"The Escape Hotel",5,300," Tourist attraction","Saudi Arabia",
+304,"ALNakheel Park",0,"23T "," Tourist attraction","Riyadh Saudi Arabia","Lawns, palm trees  sports facilities"
+305,"Magic Planet Riyadh Park     ",4,39800," Amusement center","Riyadh Saudi Arabia  In Riyadh Park","Very fun place for the kids Only problem is traffic "
+306,"Zero Latency   ",4,76100," Amusement center","Riyadh Saudi Arabia","Best place for Virtual Reality entertainment"
+307,"Fanta Park",4,4900," Amusement center","Riyadh Saudi Arabia  In Royal Mall Riyadh","It a nice place for entertainment for your children but your children "
+308,"Jabal Baloum",4,600," Tourist attraction","Riyadh Saudi Arabia","Great location for camping and to have fun around"
+309,"Escape Room",5,72100," Escape room center","Riyadh Saudi Arabia","I highly recommend this place for spending fun time with your family "
+310,"Manakh King Abdulaziz Park",4,"24T "," Tourist attraction","Riyadh Saudi Arabia","It is very nice place Especially for BarBQ"
+311,"Al Fazari Courtyard",0,3400," Garden","Riyadh Saudi Arabia","Just gets better with time a few really nice places to eat, with great "
+312,"AlHayer Park Lake",5,56800," Park","Riyadh Saudi Arabia","A very nice place for entertainment with family"
+313,"Mount Uraidh Hidden Spring",0,400," Tourist attraction","Riyadh Saudi Arabia","Nice and quite place"
+314,"Sky Zone",0,"38T "," Amusement center","Riyadh Saudi Arabia  In Al Hokair Time","Great place for entertainment"
+315,"ALHOKAIR TIME   ",4,"31T "," Amusement center","Al Madinah Al Munawwarah Saudi Arabia","Amusement place for all most especially for kids"
+316,"Tuwaiq Garden",4,53500," Tourist attraction","Riyadh Saudi Arabia","Beautiful place to jog I enjoyed walking around the place to "
+317,"Sparkys  ",3,1800," Amusement center","Buraydah Saudi Arabia  In Al Nakheel Plaza",
+318,"I Love Riyadh Sign",5,5000," Tourist attraction","Riyadh Saudi Arabia",
+319,Sparkys,4,74000," Childrens amusement center","Dhahran Saudi Arabia  In the Mall of Dhahran","Good place for kids entertainment"
+320,"Alsafat Square",4,"11T "," Tourist attraction","Riyadh Saudi Arabia","This is my Home place"
+321,"Saffori Land",0,"16T "," Amusement center","Riyadh Saudi Arabia  In    Abdullah Alothaim Markets","Awesome place for children entertainment"
+322,"Market DQ",3,400," Tourist attraction","Riyadh Saudi Arabia",
+323," ",4,300," Tourist attraction","Riyadh Saudi Arabia","Nice and quite place"
+324,"Sky Zone",0,"38T "," Amusement center","Riyadh Saudi Arabia  In Al Hokair Time","Great place for entertainment"
+325,"ALHOKAIR TIME   ",4,"31T "," Amusement center","Al Madinah Al Munawwarah Saudi Arabia","Amusement place for all most especially for kids"
+326,"Tuwaiq Garden",4,53500," Tourist attraction","Riyadh Saudi Arabia","Beautiful place to jog I enjoyed walking around the place to "
+327,"Sparkys  ",3,1800," Amusement center","Buraydah Saudi Arabia  In Al Nakheel Plaza",
+328,"I Love Riyadh Sign",5,5000," Tourist attraction","Riyadh Saudi Arabia",
+329,Sparkys,4,74000," Childrens amusement center","Dhahran Saudi Arabia  In the Mall of Dhahran","Good place for kids entertainment"
+330,"Salam Park",4,"39T "," Park","Riyadh Saudi Arabia","Has many areas for entertainment including boat riding"
+331,"  ",1,400," Tourist attraction","  Saudi Arabia",
+332,"Sphinx Rock",4,1100," Nature preserve"," Saudi Arabia","Superb off road location"
+333,"Round About",1,100," Tourist attraction","Saudi Arabia",
+334,"  ",5,1100," Tourist attraction","Tuwarin Saudi Arabia",
+336," ",5,1300," Tourist attraction","Saudi Arabia",
+337,"Boulevard World",5,"47T "," Theme park","Riyadh Saudi Arabia"," experience, comparable to the worlds entertainment areas"
+338,"Riyadh Safari",4,"14T "," Park","Saudi Arabia","Best place ever It got so many entertaining stuff in it"
+339,"Sparkys  ",4,34900," Amusement center","Alkharaj Saudi Arabia","Grear Fun place for kids Very well maintained"
+340,"Manakh King Abdulaziz Park",4,"24T "," Tourist attraction","Riyadh Saudi Arabia","It is very nice place Especially for BarBQ"
+341,"Al Fazari Courtyard",0,3400," Garden","Riyadh Saudi Arabia","Just gets better with time a few really nice places to eat, with great "
+342,"AlHayer Park Lake",5,56800," Park","Riyadh Saudi Arabia","A very nice place for entertainment with family"
+343,"Round About",1,100," Tourist attraction","Saudi Arabia",
+344,"  ",5,1100," Tourist attraction","Tuwarin Saudi Arabia",
+346," ",5,1300," Tourist attraction","Saudi Arabia",
+347,"Boulevard World",5,"47T "," Theme park","Riyadh Saudi Arabia"," experience, comparable to the worlds entertainment areas"
+348,"Riyadh Safari",4,"14T "," Park","Saudi Arabia","Best place ever It got so many entertaining stuff in it"
+349,"Sparkys  ",4,34900," Amusement center","Alkharaj Saudi Arabia","Grear Fun place for kids Very well maintained"
+350,"  Fizz Hawa",5,"21T "," Amusement center","Riyadh Saudi Arabia","Its vast and really good for the price compared to other places"
+351,"Naquibs Pond",4,2600," Tourist attraction","Riyadh Saudi Arabia","Beautiful place during sunset"
+352,"Cave Park",0,2500," Park","Riyadh Saudi Arabia",
+353,"Snowy Forest",4,41700," Amusement center","Riyadh Saudi Arabia",
+354,"Park Zoo in AlKharj",3,"14T "," Tourist attraction","AlKharj Saudi Arabia","Alkharj small Zoo place for children and family entertainment, Lion, "
+355,"Winter Wonderland",4,"67T "," Theme park"," Saudi Arabia","Its the best entertainment place hosted by Riyadh season ever"
+356,"Wadi Namar Waterfall",4,"59T "," Tourist attraction","Riyadh Saudi Arabia","Wadi Nimar in Riyadh is my favorite place for entertainment"
+357,Sparkys,4,92500," Amusement park","Riyadh Saudi Arabia  In Al Nakheel Mall","Entertainment for kids"
+358," ",4,"69T "," Park","Riyadh Saudi Arabia","Amazing place for entertainment"
+359," ",4,33800," Tourist attraction","Saudi Arabia",
+360,"Salam Park",4,"39T "," Park","Riyadh Saudi Arabia","Has many areas for entertainment including boat riding"
+361,"  ",1,400," Tourist attraction","  Saudi Arabia",
+362,"Sphinx Rock",4,1100," Nature preserve"," Saudi Arabia","Superb off road location"
+363,"Round About",4,41700," Amusement center","Riyadh Saudi Arabia",
+364,"Park Zoo in AlKharj",3,"14T "," Tourist attraction","AlKharj Saudi Arabia","Alkharj small Zoo place for children and family entertainment, Lion, "
+365,"Winter Wonderland",4,"67T "," Theme park"," Saudi Arabia","Its the best entertainment place hosted by Riyadh season ever"
+366,"Wadi Namar Waterfall",4,"59T "," Tourist attraction","Riyadh Saudi Arabia","Wadi Nimar in Riyadh is my favorite place for entertainment"
+367,Sparkys,4,92500," Amusement park","Riyadh Saudi Arabia  In Al Nakheel Mall","Entertainment for kids"
+368," ",4,"69T "," Park","Riyadh Saudi Arabia","Amazing place for entertainment"
+369," ",4,33800," Tourist attraction","Saudi Arabia",
+370,TAKENDA,4,3700," Amusement park","Riyadh Saudi Arabia  In Boulevard Riyadh City","Nice family entertainment places"
+371,"RMROMA LAND",3,2100," Theme park","Dammam Saudi Arabia  In Marina Mall","Entertainment for children but dangerous for parents  Lovely place"
+372,"Saudi Television Tower",4,22400," Tourist attraction","Riyadh Saudi Arabia","nice place and nice people inside tv station"
+373,"Ahaji Escape Rooms ",5,"11T "," Escape room center","Riyadh Saudi Arabia","Very entertaining place with very humble and great staff"
+374," ",5,1600," Hiking area","Al Moqbel Palaces Saudi Arabia",
+375,"Saudi Discovery",5,1500," Travel agency","Riyadh Saudi Arabia","We visited several historical sites such as the Masmak Fortress and "
+376,sparkys,4,64600," Amusement park","Riyadh Saudi Arabia  In Panorama Mall","All games working and having Operational technical stuff"
+377,"Planet X",4,10900," Amusement center","Riyadh Saudi Arabia  In The Zone","The place has a hydraulic driving rig with a bunch of games on it"
+378,"Mazebox Escape Room",5,"12T "," Escape room center","Jeddah Saudi Arabia","Its a really nice place We had fun good price"
+379,"Family Park",4,9800," Park","Riyadh Saudi Arabia","OMG i was walking around and I saw the skinny legend queen jiafei "
+380,"  Fizz Hawa",5,"21T "," Amusement center","Riyadh Saudi Arabia","Its vast and really good for the price compared to other places"
+381,"Naquibs Pond",4,2600," Tourist attraction","Riyadh Saudi Arabia","Beautiful place during sunset"
+382,"Cave Park",0,2500," Park","Riyadh Saudi Arabia",
+383,"Snowy Forest",4,"11T "," Escape room center","Riyadh Saudi Arabia","Very entertaining place with very humble and great staff"
+384," ",5,1600," Hiking area","Al Moqbel Palaces Saudi Arabia",
+385,"Saudi Discovery",5,1500," Travel agency","Riyadh Saudi Arabia","We visited several historical sites such as the Masmak Fortress and "
+386,sparkys,4,64600," Amusement park","Riyadh Saudi Arabia  In Panorama Mall","All games working and having Operational technical stuff"
+387,"Planet X",4,10900," Amusement center","Riyadh Saudi Arabia  In The Zone","The place has a hydraulic driving rig with a bunch of games on it"
+388,"Mazebox Escape Room",5,"12T "," Escape room center","Jeddah Saudi Arabia","Its a really nice place We had fun good price"
+389,"Family Park",4,9800," Park","Riyadh Saudi Arabia","OMG i was walking around and I saw the skinny legend queen jiafei "
+390,"Sky Zone",4,"1T "," Amusement center","Riyadh Saudi Arabia  In Almakan Mall","My favourite place "
+391,"Snowy Forest   ",3,9700," Amusement center","Jeddah Saudi Arabia  In the Red Sea Mall",
+392,"Hello Park",5,5500," Park","Riyadh Saudi Arabia  In Panorama Mall",
+393,"Modon Lake Park",4,"49T "," Tourist attraction","Dammam Saudi Arabia","Good place for entertainment"
+394,"Lake park View point",5,6200," Park","Riyadh Saudi Arabia",
+395,"Escape The Room  Riyadh",5,"2T "," Escape room center","Riyadh Saudi Arabia","Best entertainment Place for familys and friends in Riyadh "
+396,DOOMIDOO,4,57300," Childrens amusement center","Riyadh Saudi Arabia","Closes soon  930pm"
+397,"Riyadh Water Tower",4,"21T "," Tourist attraction","Riyadh Saudi Arabia","Nice Location for kids"
+398,"Nofa Wildlife Park",4,46600," Wildlife and safari park"," Saudi Arabia","Closed  Opens 8am Wed"
+399,Sulai,0,100," Garden","Riyadh Saudi Arabia",
+400,TAKENDA,4,3700," Amusement park","Riyadh Saudi Arabia  In Boulevard Riyadh City","Nice family entertainment places"
+401,"RMROMA LAND",3,2100," Theme park","Dammam Saudi Arabia  In Marina Mall","Entertainment for children but dangerous for parents  Lovely place"
+402,"Saudi Television Tower",4,22400," Tourist attraction","Riyadh Saudi Arabia","nice place and nice people inside tv station"
+403,"Ahaji Escape Rooms ",5,"49T "," Tourist attraction","Dammam Saudi Arabia","Good place for entertainment"
+404,"Lake park View point",5,6200," Park","Riyadh Saudi Arabia",
+405,"Escape The Room  Riyadh",5,"2T "," Escape room center","Riyadh Saudi Arabia","Best entertainment Place for familys and friends in Riyadh "
+406,DOOMIDOO,4,57300," Childrens amusement center","Riyadh Saudi Arabia","Closes soon  930pm"
+407,"Riyadh Water Tower",4,"21T "," Tourist attraction","Riyadh Saudi Arabia","Nice Location for kids"
+408,"Nofa Wildlife Park",4,46600," Wildlife and safari park"," Saudi Arabia","Closed  Opens 8am Wed"
+409,Sulai,0,100," Garden","Riyadh Saudi Arabia",
+410,"Chuck E Cheeses",4,"31T ","  ","Riyadh Saudi Arabia","Excellent kids and family entertainment place"
+411,"Ammaria cleft",4,3300," Tourist attraction","Saudi Arabia","Amazing location, worth a visit"
+412,"King Khalid Grand Mosque",5,"10T "," Tourist attraction","Riyadh Saudi Arabia","Worship hall with stainglass windows"
+413,"Lake park Riyadh",4,70300," Tourist attraction","Riyadh Saudi Arabia","A place away from the hustle and bustle of city"
+414,"IS IT REAL",5,1000," Tourist attraction","Riyadh Saudi Arabia",
+415,"Chuck E Cheeses",4,"43T ","  ","Riyadh Saudi Arabia","a place where kids can have fun and their parents too"
+416,"      Hi 5",4,10600," Amusement center","Riyadh Saudi Arabia","Great place for kids for entertainment"
+418,Woosh,4,"21T "," Recreation center","Riyadh Saudi Arabia","A nice place to spend some time with your kids"
+419,"   Escape Mission",5,43600," Escape room center","Riyadh Saudi Arabia","Fun place, intelligent games and reasonable price range for activities"
+420,"Sky Zone",4,"1T "," Amusement center","Riyadh Saudi Arabia  In Almakan Mall","My favourite place "
+421,"Snowy Forest   ",3,9700," Amusement center","Jeddah Saudi Arabia  In the Red Sea Mall",
+422,"Hello Park",5,5500," Park","Riyadh Saudi Arabia  In Panorama Mall",
+423,"Modon Lake Park",4,"49T "," Tourist attraction",,"A place away from the hustle and bustle of city"
+424,"IS IT REAL",5,1000," Tourist attraction","Riyadh Saudi Arabia",
+425,"Chuck E Cheeses",4,"43T ","  ","Riyadh Saudi Arabia","a place where kids can have fun and their parents too"
+426,"      Hi 5",4,10600," Amusement center","Riyadh Saudi Arabia","Great place for kids for entertainment"
+428,Woosh,4,"21T "," Recreation center","Riyadh Saudi Arabia","A nice place to spend some time with your kids"
+429,"   Escape Mission",5,43600," Escape room center","Riyadh Saudi Arabia","Fun place, intelligent games and reasonable price range for activities"
+430,shifa,4,50400," Country park","Riyadh Saudi Arabia","A super relaxing place in riyadh"
+431,"Umluj Beach",4,"12T "," State park","Umluj Saudi Arabia","Clearwater beach for diving  birding"
+432,"Billy Beez City",4,60900," Childrens amusement center","Riyadh Saudi Arabia  In Al Nakheel Mall","Billy Beez City my favorite placeeven me I enjoy and love this place"
+433,"  ",5,"27T "," Tourist attraction","Riyadh Saudi Arabia","Closed  Opens 4am Wed"
+434,"   Safforiland",3,5900," Amusement park","Buraydah Saudi Arabia  In Al Othaim Mall",
+435,"Al Douh Park",4,"47T "," Tourist attraction","Riyadh Saudi Arabia","Really good place to relax"
+436,"Lake Park",5,"21T "," Tourist attraction","Al Mithnab Saudi Arabia","I am gonna tell my friends about the place"
+437,"Nofa wild life park and safari",4,19900," Wildlife and safari park","Khubayb Al Reem Saudi Arabia",
+438,"Lambee Tily",4,"12T "," Amusement center","Riyadh Saudi Arabia","NYC place Kidz njying Tq waad for helping kidz"
+439,"Wadi Park",0,"24T "," Tourist attraction","Riyadh Saudi Arabia","Palmshaded park for walks  kids games"
+440,"Chuck E Cheeses",4,"31T ","  ","Riyadh Saudi Arabia","Excellent kids and family entertainment place"
+441,"Ammaria cleft",4,3300," Tourist attraction","Saudi Arabia","Amazing location, worth a visit"
+442,"King Khalid Grand Mosque",5,"10T "," Tourist attraction","Riyadh Saudi Arabia","Worship hall with stainglass windows"
+443,"Lake park Riyadh",4,70300," Tourist attraction","Riyadh Saudi Arabia","Closed  Opens 4am Wed"
+444,"   Safforiland",3,5900," Amusement park","Buraydah Saudi Arabia  In Al Othaim Mall",
+445,"Al Douh Park",4,"47T "," Tourist attraction","Riyadh Saudi Arabia","Really good place to relax"
+446,"Lake Park",5,"21T "," Tourist attraction","Al Mithnab Saudi Arabia","I am gonna tell my friends about the place"
+447,"Nofa wild life park and safari",4,19900," Wildlife and safari park","Khubayb Al Reem Saudi Arabia",
+448,"Lambee Tily",4,"12T "," Amusement center","Riyadh Saudi Arabia","NYC place Kidz njying Tq waad for helping kidz"
+449,"Wadi Park",0,"24T "," Tourist attraction","Riyadh Saudi Arabia","Palmshaded park for walks  kids games"
+450,"Al Musawkaf Market",4,"41T "," Tourist attraction","Unayzah Saudi Arabia","Closes soon  930pm"
+451,"Sala Hub",4,1400," Childrens amusement center","Riyadh Saudi Arabia","Open now"
+453,"Oz Lounge",4,74300," Amusement center","Riyadh Saudi Arabia","A cafe and a restaurant"
+454," ",0,95000," National reserve"," Saudi Arabia","Desert reserve with native wildlife"
+455,"Happy Cheese",5,"27T "," Childrens amusement center","Riyadh Saudi Arabia",Takeaway
+456,"The Escape Hotel",5,31300," Escape room center","Riyadh Saudi Arabia",
+457,Uplay,4,25300," Childrens amusement center","Riyadh Saudi Arabia","Best place to take you kids away from TViPad"
+458,faylaqia,1,1500," Tourist attraction","Ushaiqer Saudi Arabia",
+460,shifa,4,50400," Country park","Riyadh Saudi Arabia","A super relaxing place in riyadh"
+461,"Umluj Beach",4,"12T "," State park","Umluj Saudi Arabia","Clearwater beach for diving  birding"
+462,"Billy Beez City",4,60900," Childrens amusement center","Riyadh Saudi Arabia  In Al Nakheel Mall","Billy Beez City my favorite placeeven me I enjoy and love this place"
+463,"  ",5,"27T "," Tourist attraction","Riyadh Saudi Arabia","Closed  Opens 4am Wed"
+464,,0,95000," National reserve"," Saudi Arabia","Desert reserve with native wildlife"
+465,"Happy Cheese",5,"27T "," Childrens amusement center","Riyadh Saudi Arabia",Takeaway
+466,"The Escape Hotel",5,31300," Escape room center","Riyadh Saudi Arabia",
+467,Uplay,4,25300," Childrens amusement center","Riyadh Saudi Arabia","Best place to take you kids away from TViPad"
+468,faylaqia,1,1500," Tourist attraction","Ushaiqer Saudi Arabia",
+470,"The Hidden Valley",5,400," Hiking area","Saudi Arabia",
+471,"Al Shaeeb Park",0,"21T "," Tourist attraction","Riyadh Saudi Arabia",
+472,"Natural Arch Riyadh",5,9800," Hiking area","Saudi Arabia",
+473," ",4,72500," Amusement center","Riyadh Saudi Arabia","Vary fun place , they can easily spend 6 hours without notice "
+474,"Tomb of Lihyan son of Kuza",5,55200," Historical landmark","Hegra Saudi Arabia","Living place of Samoods"
+476,"  ",4,20100," Garden","Riyadh Saudi Arabia",
+477,"Universal Bowling Center",4,"5T "," Bowling alley","Riyadh Saudi Arabia","Family place entertainment"
+478," ",0,"24T ","  ","Riyadh Saudi Arabia",
+479,"King Fahad library Park",4,6500," Park","Riyadh Saudi Arabia",
+480,"Al Musawkaf Market",4,"41T "," Tourist attraction","Unayzah Saudi Arabia","Closes soon  930pm"
+481,"Sala Hub",4,1400," Childrens amusement center","Riyadh Saudi Arabia","Open now"
+483,"Oz Lounge",4,74300," Amusement center","Riyadh Saudi Arabia","A cafe and a restaurant"
+484," ",5,55200," Historical landmark","Hegra Saudi Arabia","Living place of Samoods"
+486,"  ",4,20100," Garden","Riyadh Saudi Arabia",
+487,"Universal Bowling Center",4,"5T "," Bowling alley","Riyadh Saudi Arabia","Family place entertainment"
+488," ",0,"24T ","  ","Riyadh Saudi Arabia",
+489,"King Fahad library Park",4,6500," Park","Riyadh Saudi Arabia",
+490,"Chuck E Cheese",4,"16T ","  ","Riyadh Saudi Arabia","Great place for kids entertainment"
+491,"Kids Gym",0,9500," Childrens amusement center","Riyadh Saudi Arabia",
+492,"  ",5,2600," Hiking area","Riyadh Saudi Arabia",
+493,"Go Bowling  Laser Strike  Makan Mall",4,28300," Video arcade","Riyadh Saudi Arabia","Very nice place for entertainment"
+494,Dhurma,4,14200," Garden","Dhurma Saudi Arabia","Beatiful tinny city near Riyadh"
+495,"ChuckE cheese",4,"3T ","  ","Riyadh Saudi Arabia  In Thaghr Plaza",Takeaway
+496,"    ALSAMLAH",4,45100," Amusement center","Riyadh Saudi Arabia",
+497,"Chuck E Cheese",4,54400," Theme park","Buraydah Saudi Arabia",
+498,"Masjid Diplomatic Quarters",5,7700," Tourist attraction","Riyadh Saudi Arabia",
+499,"Lonely Castle",1,500," Museum","Hegra Saudi Arabia",
+500,"The Hidden Valley",5,400," Hiking area","Saudi Arabia",
+501,"Al Shaeeb Park",0,"21T "," Tourist attraction","Riyadh Saudi Arabia",
+502,"Natural Arch Riyadh",5,9800," Hiking area","Saudi Arabia",
+503," ",4,72500," Amusement center","Riyadh Saudi Arabia","Vary fun place , they can easily spend 6 hours without notice "
+504,,4,14200," Garden","Dhurma Saudi Arabia","Beatiful tinny city near Riyadh"
+505,"ChuckE cheese",4,"3T ","  ","Riyadh Saudi Arabia  In Thaghr Plaza",Takeaway
+506,"    ALSAMLAH",4,45100," Amusement center","Riyadh Saudi Arabia",
+507,"Chuck E Cheese",4,54400," Theme park","Buraydah Saudi Arabia",
+508,"Masjid Diplomatic Quarters",5,7700," Tourist attraction","Riyadh Saudi Arabia",
+509,"Lonely Castle",1,500," Museum","Hegra Saudi Arabia",
+510,Syrup,5,40600," Corporate office","Riyadh Saudi Arabia","A go to place for entertainment in Riyadh"
+511,"Khararah Lake",4,95800," Park","AlMuzahmiya Saudi Arabia",
+512,"Kingdom Centre",4,"24T "," Shopping mall","Riyadh Saudi Arabia","Amazing place center of Riyadh a kingdom Tower located at olaya rd"
+513,"Bujairi Terrace",4,56000," Tourist attraction","Riyadh Saudi Arabia",Dinein
+514," ",5,"15T "," Tourist attraction","Riyadh Saudi Arabia","And very good locations"
+515,"Triangle Park",4,10900," Garden","Riyadh Saudi Arabia",
+516,"Chuck E Cheeses",4,"24T ","  ","Riyadh Saudi Arabia","Best kids and family entertainment place"
+517," ",5,32400," Park","Huraymila Saudi Arabia",
+518,Firstaiment,0,"19T "," Paintball center","Riyadh Saudi Arabia","amazing and entertaining"
+519,"  ",5,9900," Amusement center","Riyadh Saudi Arabia  In  ","Closed  Opens 230pm Wed"
+520,"Chuck E Cheese",4,"16T ","  ","Riyadh Saudi Arabia","Great place for kids entertainment"
+521,"Kids Gym",0,9500," Childrens amusement center","Riyadh Saudi Arabia",
+522,"  ",5,2600," Hiking area","Riyadh Saudi Arabia",
+523,"Go Bowling  Laser Strike  Makan Mall",4,28300," Video arcade","Riyadh Saudi Arabia",Dinein
+524," ",5,"15T "," Tourist attraction","Riyadh Saudi Arabia","And very good locations"
+525,"Triangle Park",4,10900," Garden","Riyadh Saudi Arabia",
+526,"Chuck E Cheeses",4,"24T ","  ","Riyadh Saudi Arabia","Best kids and family entertainment place"
+527," ",5,32400," Park","Huraymila Saudi Arabia",
+528,Firstaiment,0,"19T "," Paintball center","Riyadh Saudi Arabia","amazing and entertaining"
+529,"  ",5,9900," Amusement center","Riyadh Saudi Arabia  In  ","Closed  Opens 230pm Wed"
+530,"RIM rural farm in Dalam",4,26600," Farm","Ad Dilam Saudi Arabia",
+531,"Chifty ",4,"17T ","  ","Riyadh Saudi Arabia","Hip place with global eats, shisha  DJs"
+532," ",4,"35T "," State park","AlMuzahmiya Saudi Arabia","Among one of the emerging Visiting Places near to Riyadh"
+533,"Al Orjouan",4,70500," Buffet","Riyadh Saudi Arabia  In The RitzCarlton, Riyadh","Buffet restaurant at the RitzCarlton"
+534,"Bulalohan sa Riyadh",4,25800," Filipino","Riyadh Saudi Arabia","Delicious food and have vedioke for entertainment"
+535,"Seafood restaurants",3,400," Seafood","Riyadh Saudi Arabia",Dinein
+536," ",4,"84T "," Theme park","Riyadh Saudi Arabia","Temporarily closed"
+537,"Subaie heritage house",4,19200," Tourist attraction","Shaqra Saudi Arabia","Temporarily closed"
+538,"WORLD SIGHTS PARK",4,"31T "," Tourist attraction","Riyadh Saudi Arabia","Temporarily closed"
+539,"   Oasis Zone",0,18200," Tourist attraction"," Saudi Arabia","Temporarily closed"
+540,Syrup,5,40600," Corporate office","Ad Dilam Saudi Arabia",
+541,"Chifty ",4,"17T ","  ","Riyadh Saudi Arabia","Hip place with global eats, shisha  DJs"
+542," ",4,"35T "," State park","AlMuzahmiya Saudi Arabia","Among one of the emerging Visiting Places near to Riyadh"
+543,"Al Orjouan",4,70500," Buffet","Riyadh Saudi Arabia  In The RitzCarlton, Riyadh","Buffet restaurant at the RitzCarlton"
+544,"Bulalohan sa Riyadh",4,25800," Filipino","Riyadh Saudi Arabia","Delicious food and have vedioke for entertainment"
+545,"Seafood restaurants",3,400," Seafood","Riyadh Saudi Arabia",Dinein
+546," ",4,"84T "," Theme park","Riyadh Saudi Arabia","Temporarily closed"
+547,"Subaie heritage house",4,19200," Tourist attraction","Shaqra Saudi Arabia","Temporarily closed"
+548,"WORLD SIGHTS PARK",4,"31T "," Tourist attraction","Riyadh Saudi Arabia","Temporarily closed"
+549,"   Oasis Zone",0,18200," Tourist attraction"," Saudi Arabia","Temporarily closed"
+550," ",4,6800," Tourist attraction","Riyadh Saudi Arabia","Temporarily closed"
+551,"   karretah lounge",4,1200," Tourist attraction","Saudi Arabia","Temporarily closed"
+552,"Jammoly World",1,100," Childrens amusement center","Riyadh Saudi Arabia","Temporarily closed"
+553,"Red Sea Beach",5,13700," Childrens amusement center","Riyadh Saudi Arabia","Temporarily closed"
+554,"The Secret Room",4,35300," Escape room center","Riyadh Saudi Arabia","Temporarily closed"
+555,"Tim Tech Rimal Center",1,200," Childrens amusement center","Riyadh Saudi Arabia  In Rimal Center","Temporarily closed"
+556,Mabelle,5,4200," Childrens amusement center","Riyadh Saudi Arabia","Temporarily closed"
+560,"RIM rural farm in Dalam",4,26600," Farm","Ad Dilam Saudi Arabia",
+561,"Chifty ",4,"17T ","  ","Riyadh Saudi Arabia","Hip place with global eats, shisha  DJs"
+562," ",4,"35T "," State park","AlMuzahmiya Saudi Arabia","Among one of the emerging Visiting Places near to Riyadh"
+563,,5,13700," Childrens amusement center","Riyadh Saudi Arabia","Temporarily closed"
+564,"The Secret Room",4,35300," Escape room center","Riyadh Saudi Arabia","Temporarily closed"
+565,"Tim Tech Rimal Center",1,200," Childrens amusement center","Riyadh Saudi Arabia  In Rimal Center","Temporarily closed"
+566,Mabelle,5,4200," Childrens amusement center","Riyadh Saudi Arabia","Temporarily closed"
+580," ",4,6800," Tourist attraction","Riyadh Saudi Arabia","Temporarily closed"
+581,"   karretah lounge",4,1200," Tourist attraction","Saudi Arabia","Temporarily closed"
+582,"Jammoly World",1,100,,,
